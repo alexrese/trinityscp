@@ -1,0 +1,17 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-image: url(../img/mapa.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.border {
+    border: 1px solid;
+}
+
+h1 {
+    font-weight: 900;
+}
